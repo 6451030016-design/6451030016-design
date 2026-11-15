@@ -17,7 +17,7 @@
 
 ### Featured Projects
 
-- **6-DOF Robotic Arm** – STM32-based 6-degree-of-freedom robotic arm
+- **6-DOF Robotic Arm** – Design and development of a 6-degree-of-freedom robotic arm for spray painting applications
 - **Smart Locker IoT** – smart parcel locker (node, gateway, server)
 - **Embedded Control Systems**
 
