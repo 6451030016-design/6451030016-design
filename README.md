@@ -18,7 +18,7 @@
 ### Featured Projects
 
 - **6-DOF Robotic Arm** – Design and development of a 6-degree-of-freedom robotic arm for spray painting applications
-- **Smart Locker IoT** – smart parcel locker (node, gateway, server)
+- **Smart Locker IoT** – Design and development of a smart parcel locker system 
 - **Embedded Control Systems**
 
 ---
