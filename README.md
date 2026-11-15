@@ -2,7 +2,7 @@
 
 **Automation Engineering Student**
 
-### 🤖 Robotics | IoT | Embedded Systems | Industrial Automation
+###  Robotics | IoT | Embedded Systems | Industrial Automation
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -15,11 +15,11 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-- 🦾 **6-DOF Robotic Arm** – STM32-based 6-degree-of-freedom robotic arm
-- 🔐 **Smart Locker IoT** – smart parcel locker (node, gateway, server)
-- ⚙️ **Embedded Control Systems**
+- **6-DOF Robotic Arm** – STM32-based 6-degree-of-freedom robotic arm
+- **Smart Locker IoT** – smart parcel locker (node, gateway, server)
+- **Embedded Control Systems**
 
 ---
 
